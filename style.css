@@ -7,7 +7,7 @@
     rgba(0,0,0,0.9) right right sans-serif text-align top top width width*/
     .overlay {
         /* Sit on top of the page content */
-
+        z-index: -1;
         /* Full width (cover the whole page) */
         max-width: 100%;
         /* Full height (cover the whole page) */
@@ -41,7 +41,7 @@
         /* Centered text */
         text-align: center;
         /* Line height ( idem height ) */
-        line-height: 100%;
+        line-height: 2rem;
         /* Display as a block */
         display: block;
         /* Position absolute */
