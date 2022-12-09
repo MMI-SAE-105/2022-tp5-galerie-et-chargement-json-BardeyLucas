@@ -1,4 +1,4 @@
-données = [
+[
 {
     "nom": "Jean",
     "projet": "Alpine.js",
@@ -15,4 +15,3 @@ données = [
     "url": "https://laravel.com/"
   }
 ]
-(3) [{...},{...},{...}]
