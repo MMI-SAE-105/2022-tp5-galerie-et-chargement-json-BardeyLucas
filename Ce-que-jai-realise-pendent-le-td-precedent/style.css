@@ -34,3 +34,10 @@ cursor: pointer;
 img {
     max-width: 100%;
 }
+button{
+    width: 512px;
+    height: 288px;
+background: url(/Ce-que-jai-realise-pendent-le-td-precedent/daki_gyutaro_white_background_hd_demon_slayer_kimetsu_no_yaiba-2560x1440.jpg) ;
+background-size: 100%;
+border: solid 1px black;
+}
